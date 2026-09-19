@@ -1,0 +1,13 @@
+# Visual Studio temporales
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NetBeans temporales
+build/
+dist/
+nbproject/private/

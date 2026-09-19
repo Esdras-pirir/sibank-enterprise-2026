@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|f:\\documentos2\\proyecto banco\\sibankdesktop\\usuarioscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|solutionrelative:usuarioscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|F:\\documentos2\\proyecto banco\\SIBankDesktop\\usuarioscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|solutionrelative:usuarioscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|F:\\documentos2\\proyecto banco\\SIBankDesktop\\usuarioformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|solutionrelative:usuarioformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|F:\\documentos2\\proyecto banco\\SIBankDesktop\\usuarioformulario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|solutionrelative:usuarioformulario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|F:\\documentos2\\proyecto banco\\SIBankDesktop\\reportescontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|solutionrelative:reportescontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|F:\\documentos2\\proyecto banco\\SIBankDesktop\\reportescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|solutionrelative:reportescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|F:\\documentos2\\proyecto banco\\SIBankDesktop\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|F:\\documentos2\\proyecto banco\\SIBankDesktop\\reportescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90149251-2A58-4233-9EDE-7D4E68626227}|SIBankDesktop.csproj|solutionrelative:reportescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosControl.Designer.cs",
+              "DocumentMoniker": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\UsuariosControl.Designer.cs",
+              "RelativeDocumentMoniker": "UsuariosControl.Designer.cs",
+              "ToolTip": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\UsuariosControl.Designer.cs",
+              "RelativeToolTip": "UsuariosControl.Designer.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAADwv/sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:11:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosControl.cs",
+              "DocumentMoniker": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\UsuariosControl.cs",
+              "RelativeDocumentMoniker": "UsuariosControl.cs",
+              "ToolTip": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\UsuariosControl.cs",
+              "RelativeToolTip": "UsuariosControl.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAADwv0QBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:10:26.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioFormulario.Designer.cs",
+              "DocumentMoniker": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\UsuarioFormulario.Designer.cs",
+              "RelativeDocumentMoniker": "UsuarioFormulario.Designer.cs",
+              "ToolTip": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\UsuarioFormulario.Designer.cs",
+              "RelativeToolTip": "UsuarioFormulario.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAADwv38AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:03:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioFormulario.cs",
+              "DocumentMoniker": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\UsuarioFormulario.cs",
+              "RelativeDocumentMoniker": "UsuarioFormulario.cs",
+              "ToolTip": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\UsuarioFormulario.cs",
+              "RelativeToolTip": "UsuarioFormulario.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:02:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\DashboardForm.cs",
+              "RelativeToolTip": "DashboardForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAlwGsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:46:21.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportesControl.Designer.cs",
+              "DocumentMoniker": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\ReportesControl.Designer.cs",
+              "RelativeDocumentMoniker": "ReportesControl.Designer.cs",
+              "ToolTip": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\ReportesControl.Designer.cs",
+              "RelativeToolTip": "ReportesControl.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAQwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:45:45.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportesControl.cs",
+              "DocumentMoniker": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\ReportesControl.cs",
+              "RelativeDocumentMoniker": "ReportesControl.cs",
+              "ToolTip": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\ReportesControl.cs",
+              "RelativeToolTip": "ReportesControl.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAADwv8cBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:45:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportesControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\ReportesControl.cs",
+              "RelativeDocumentMoniker": "ReportesControl.cs",
+              "ToolTip": "F:\\documentos2\\proyecto banco\\SIBankDesktop\\ReportesControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ReportesControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:45:13.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

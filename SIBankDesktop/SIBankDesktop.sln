@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIBankDesktop", "SIBankDesktop.csproj", "{90149251-2A58-4233-9EDE-7D4E68626227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90149251-2A58-4233-9EDE-7D4E68626227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90149251-2A58-4233-9EDE-7D4E68626227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90149251-2A58-4233-9EDE-7D4E68626227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90149251-2A58-4233-9EDE-7D4E68626227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DAFA9DB-B534-4E63-A605-1D98E6C34146}
+	EndGlobalSection
+EndGlobal
