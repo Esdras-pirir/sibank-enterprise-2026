@@ -1,0 +1,735 @@
+Listado de rutas de carpetas para el volumen HP P500
+El n£mero de serie del volumen es 3893-69B0
+F:.
+³   .gitignore.txt
+³   estructura.txt
+³   README.md
+³   
+ÃÄÄÄapi
+³   ³   api.zip
+³   ³   
+³   ÀÄÄÄapi
+³       ³   .gitattributes
+³       ³   .gitignore
+³       ³   HELP.md
+³       ³   mvnw
+³       ³   mvnw.cmd
+³       ³   pom.xml
+³       ³   
+³       ÃÄÄÄ.mvn
+³       ³   ÀÄÄÄwrapper
+³       ³           maven-wrapper.properties
+³       ³           
+³       ÃÄÄÄsrc
+³       ³   ÃÄÄÄmain
+³       ³   ³   ÃÄÄÄjava
+³       ³   ³   ³   ÀÄÄÄJar
+³       ³   ³   ³           ApiApplication.java
+³       ³   ³   ³           BitacoraController.java
+³       ³   ³   ³           ClienteController.java
+³       ³   ³   ³           CorsConfig.java
+³       ³   ³   ³           PrestamoController.java
+³       ³   ³   ³           TarjetaController.java
+³       ³   ³   ³           TestController.java
+³       ³   ³   ³           UsuarioController.java
+³       ³   ³   ³           
+³       ³   ³   ÀÄÄÄresources
+³       ³   ³       ³   application.properties
+³       ³   ³       ³   
+³       ³   ³       ÃÄÄÄstatic
+³       ³   ³       ÀÄÄÄtemplates
+³       ³   ÀÄÄÄtest
+³       ³       ÀÄÄÄjava
+³       ³           ÀÄÄÄJar
+³       ³                   ApiApplicationTests.java
+³       ³                   
+³       ÀÄÄÄtarget
+³           ³   api-0.0.1-SNAPSHOT.jar
+³           ³   api-0.0.1-SNAPSHOT.jar.original
+³           ³   
+³           ÃÄÄÄclasses
+³           ³   ³   application.properties
+³           ³   ³   
+³           ³   ÀÄÄÄJar
+³           ³           ApiApplication.class
+³           ³           BitacoraController.class
+³           ³           ClienteController$ClienteEditRequest.class
+³           ³           ClienteController$ClienteRequest.class
+³           ³           ClienteController.class
+³           ³           CorsConfig$1.class
+³           ³           CorsConfig.class
+³           ³           PrestamoController$AprobarRequest.class
+³           ³           PrestamoController$SolicitudRequest.class
+³           ³           PrestamoController.class
+³           ³           TarjetaController$BloquearRequest.class
+³           ³           TarjetaController$EmitirRequest.class
+³           ³           TarjetaController.class
+³           ³           TestController$AbrirCuentaRequest.class
+³           ³           TestController$MontoRequest.class
+³           ³           TestController$TransferenciaRequest.class
+³           ³           TestController.class
+³           ³           UsuarioController$CambiarEstadoRequest.class
+³           ³           UsuarioController$LoginRequest.class
+³           ³           UsuarioController$RegistrarRequest.class
+³           ³           UsuarioController$ResetPasswordRequest.class
+³           ³           UsuarioController.class
+³           ³           
+³           ÃÄÄÄgenerated-sources
+³           ³   ÀÄÄÄannotations
+³           ÃÄÄÄgenerated-test-sources
+³           ³   ÀÄÄÄtest-annotations
+³           ÃÄÄÄmaven-archiver
+³           ³       pom.properties
+³           ³       
+³           ÃÄÄÄmaven-status
+³           ³   ÀÄÄÄmaven-compiler-plugin
+³           ³       ÃÄÄÄcompile
+³           ³       ³   ÀÄÄÄdefault-compile
+³           ³       ³           createdFiles.lst
+³           ³       ³           inputFiles.lst
+³           ³       ³           
+³           ³       ÀÄÄÄtestCompile
+³           ³           ÀÄÄÄdefault-testCompile
+³           ³                   createdFiles.lst
+³           ³                   inputFiles.lst
+³           ³                   
+³           ÃÄÄÄsurefire-reports
+³           ³       Jar.ApiApplicationTests.txt
+³           ³       TEST-Jar.ApiApplicationTests.xml
+³           ³       
+³           ÀÄÄÄtest-classes
+³               ÀÄÄÄJar
+³                       ApiApplicationTests.class
+³                       
+ÃÄÄÄbase de datos
+³       esquema_sibank_completo.sql
+³       
+ÃÄÄÄdocs
+³   ³   hero.png
+³   ³   
+³   ÀÄÄÄscreenshots
+³           01-acceso-seguro--aplicacion-de-escritorio.png
+³           02-operacion-bancaria--emision-de-tarjeta.png
+³           03-analitica-ejecutiva--inteligencia-financiera.png
+³           04-gestion-operativa--clientes-y-prestamos.png
+³           05-auditoria--bitacora-de-actividad.png
+³           06-portal-de-clientes--banca-digital.png
+³           07-portal-de-clientes--transferencias.png
+³           08-panel-administrativo--control-operativo.png
+³           09-acceso-administrativo--sibank-admin.png
+³           10-administracion--gestion-de-clientes.png
+³           
+ÃÄÄÄportal-web
+³       admin-dashboard.html
+³       admin-login.html
+³       dashboard.html
+³       index.html
+³       SIBank.sql
+³       
+ÀÄÄÄSIBankDesktop
+    ³   App.config
+    ³   BitacoraControl.cs
+    ³   BitacoraControl.Designer.cs
+    ³   ClienteEditFormulario.cs
+    ³   ClienteEditFormulario.Designer.cs
+    ³   ClienteFormulario.cs
+    ³   ClienteFormulario.Designer.cs
+    ³   ClientesControl.cs
+    ³   ClientesControl.Designer.cs
+    ³   ClientesControl.resx
+    ³   CuentaFormulario.cs
+    ³   CuentaFormulario.Designer.cs
+    ³   CuentasControl.cs
+    ³   CuentasControl.Designer.cs
+    ³   DashboardForm.cs
+    ³   DashboardForm.Designer.cs
+    ³   DashboardForm.Designer.Designer
+    ³   DepositosRetirosControl.cs
+    ³   DepositosRetirosControl.Designer.cs
+    ³   Form1.cs
+    ³   Form1.Designer.cs
+    ³   Form1.resx
+    ³   packages.config
+    ³   PrestamoFormulario.cs
+    ³   PrestamoFormulario.Designer.cs
+    ³   PrestamosControl.cs
+    ³   PrestamosControl.Designer.cs
+    ³   Program.cs
+    ³   ReportesControl.cs
+    ³   ReportesControl.Designer.cs
+    ³   ResetPasswordFormulario.cs
+    ³   ResetPasswordFormulario.Designer.cs
+    ³   SIBankDesktop.csproj
+    ³   SIBankDesktop.csproj.user
+    ³   SIBankDesktop.sln
+    ³   TarjetaFormulario.cs
+    ³   TarjetaFormulario.Designer.cs
+    ³   TarjetasControl.cs
+    ³   TarjetasControl.Designer.cs
+    ³   TransferenciasControl.cs
+    ³   TransferenciasControl.Designer.cs
+    ³   TransferenciasControl.resx
+    ³   UsuarioFormulario.cs
+    ³   UsuarioFormulario.Designer.cs
+    ³   UsuariosControl.cs
+    ³   UsuariosControl.Designer.cs
+    ³   
+    ÃÄÄÄbin
+    ³   ÃÄÄÄDebug
+    ³   ³       Microsoft.Bcl.AsyncInterfaces.dll
+    ³   ³       Microsoft.Bcl.AsyncInterfaces.xml
+    ³   ³       SIBankDesktop.exe
+    ³   ³       SIBankDesktop.exe.config
+    ³   ³       SIBankDesktop.pdb
+    ³   ³       System.Buffers.dll
+    ³   ³       System.Buffers.xml
+    ³   ³       System.IO.Pipelines.dll
+    ³   ³       System.IO.Pipelines.xml
+    ³   ³       System.Memory.dll
+    ³   ³       System.Memory.xml
+    ³   ³       System.Numerics.Vectors.dll
+    ³   ³       System.Numerics.Vectors.xml
+    ³   ³       System.Runtime.CompilerServices.Unsafe.dll
+    ³   ³       System.Runtime.CompilerServices.Unsafe.xml
+    ³   ³       System.Text.Encodings.Web.dll
+    ³   ³       System.Text.Encodings.Web.xml
+    ³   ³       System.Text.Json.dll
+    ³   ³       System.Text.Json.xml
+    ³   ³       System.Threading.Tasks.Extensions.dll
+    ³   ³       System.Threading.Tasks.Extensions.xml
+    ³   ³       
+    ³   ÀÄÄÄRelease
+    ÃÄÄÄobj
+    ³   ÃÄÄÄDebug
+    ³   ³   ³   .NETFramework,Version=v4.8.1.AssemblyAttributes.cs
+    ³   ³   ³   DesignTimeResolveAssemblyReferences.cache
+    ³   ³   ³   DesignTimeResolveAssemblyReferencesInput.cache
+    ³   ³   ³   SIBankDe.7AEF99D1.Up2Date
+    ³   ³   ³   SIBankDesktop.ClientesControl.resources
+    ³   ³   ³   SIBankDesktop.csproj.AssemblyReference.cache
+    ³   ³   ³   SIBankDesktop.csproj.CoreCompileInputs.cache
+    ³   ³   ³   SIBankDesktop.csproj.FileListAbsolute.txt
+    ³   ³   ³   SIBankDesktop.csproj.GenerateResource.cache
+    ³   ³   ³   SIBankDesktop.exe
+    ³   ³   ³   SIBankDesktop.Form1.resources
+    ³   ³   ³   SIBankDesktop.pdb
+    ³   ³   ³   SIBankDesktop.Properties.Resources.resources
+    ³   ³   ³   SIBankDesktop.TransferenciasControl.resources
+    ³   ³   ³   
+    ³   ³   ÀÄÄÄTempPE
+    ³   ÀÄÄÄRelease
+    ³           .NETFramework,Version=v4.8.1.AssemblyAttributes.cs
+    ³           SIBankDesktop.csproj.AssemblyReference.cache
+    ³           
+    ÃÄÄÄpackages
+    ³   ÃÄÄÄMicrosoft.Bcl.AsyncInterfaces.10.0.10
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   Microsoft.Bcl.AsyncInterfaces.10.0.10.nupkg
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   THIRD-PARTY-NOTICES.TXT
+    ³   ³   ³   useSharedDesignerContext.txt
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       Microsoft.Bcl.AsyncInterfaces.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnet462
+    ³   ³   ³           _._
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet462
+    ³   ³       ³       Microsoft.Bcl.AsyncInterfaces.dll
+    ³   ³       ³       Microsoft.Bcl.AsyncInterfaces.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetstandard2.0
+    ³   ³       ³       Microsoft.Bcl.AsyncInterfaces.dll
+    ³   ³       ³       Microsoft.Bcl.AsyncInterfaces.xml
+    ³   ³       ³       
+    ³   ³       ÀÄÄÄnetstandard2.1
+    ³   ³               Microsoft.Bcl.AsyncInterfaces.dll
+    ³   ³               Microsoft.Bcl.AsyncInterfaces.xml
+    ³   ³               
+    ³   ÃÄÄÄSystem.Buffers.4.6.1
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   System.Buffers.4.6.1.nupkg
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       System.Buffers.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnet462
+    ³   ³   ³           _._
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet462
+    ³   ³       ³       System.Buffers.dll
+    ³   ³       ³       System.Buffers.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetcoreapp2.0
+    ³   ³       ³       _._
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetstandard2.0
+    ³   ³       ³       System.Buffers.dll
+    ³   ³       ³       System.Buffers.xml
+    ³   ³       ³       
+    ³   ³       ÀÄÄÄnetstandard2.1
+    ³   ³               _._
+    ³   ³               
+    ³   ÃÄÄÄSystem.IO.Pipelines.10.0.10
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   System.IO.Pipelines.10.0.10.nupkg
+    ³   ³   ³   THIRD-PARTY-NOTICES.TXT
+    ³   ³   ³   useSharedDesignerContext.txt
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       System.IO.Pipelines.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet462
+    ³   ³   ³   ³       _._
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet8.0
+    ³   ³   ³   ³       _._
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.0
+    ³   ³   ³           System.IO.Pipelines.targets
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet10.0
+    ³   ³       ³       System.IO.Pipelines.dll
+    ³   ³       ³       System.IO.Pipelines.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnet462
+    ³   ³       ³       System.IO.Pipelines.dll
+    ³   ³       ³       System.IO.Pipelines.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnet8.0
+    ³   ³       ³       System.IO.Pipelines.dll
+    ³   ³       ³       System.IO.Pipelines.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnet9.0
+    ³   ³       ³       System.IO.Pipelines.dll
+    ³   ³       ³       System.IO.Pipelines.xml
+    ³   ³       ³       
+    ³   ³       ÀÄÄÄnetstandard2.0
+    ³   ³               System.IO.Pipelines.dll
+    ³   ³               System.IO.Pipelines.xml
+    ³   ³               
+    ³   ÃÄÄÄSystem.Memory.4.6.3
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   System.Memory.4.6.3.nupkg
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       System.Memory.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnet462
+    ³   ³   ³           _._
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet462
+    ³   ³       ³       System.Memory.dll
+    ³   ³       ³       System.Memory.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetcoreapp2.1
+    ³   ³       ³       _._
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetstandard2.0
+    ³   ³       ³       System.Memory.dll
+    ³   ³       ³       System.Memory.xml
+    ³   ³       ³       
+    ³   ³       ÀÄÄÄnetstandard2.1
+    ³   ³               _._
+    ³   ³               
+    ³   ÃÄÄÄSystem.Numerics.Vectors.4.6.1
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   System.Numerics.Vectors.4.6.1.nupkg
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       System.Numerics.Vectors.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnet462
+    ³   ³   ³           _._
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet462
+    ³   ³       ³       System.Numerics.Vectors.dll
+    ³   ³       ³       System.Numerics.Vectors.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetcoreapp2.0
+    ³   ³       ³       _._
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetstandard2.0
+    ³   ³       ³       System.Numerics.Vectors.dll
+    ³   ³       ³       System.Numerics.Vectors.xml
+    ³   ³       ³       
+    ³   ³       ÀÄÄÄnetstandard2.1
+    ³   ³               _._
+    ³   ³               
+    ³   ÃÄÄÄSystem.Runtime.CompilerServices.Unsafe.6.1.2
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   System.Runtime.CompilerServices.Unsafe.6.1.2.nupkg
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       System.Runtime.CompilerServices.Unsafe.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet462
+    ³   ³   ³   ³       _._
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet6.0
+    ³   ³   ³   ³       _._
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.0
+    ³   ³   ³           System.Runtime.CompilerServices.Unsafe.targets
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet462
+    ³   ³       ³       System.Runtime.CompilerServices.Unsafe.dll
+    ³   ³       ³       System.Runtime.CompilerServices.Unsafe.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnet6.0
+    ³   ³       ³       System.Runtime.CompilerServices.Unsafe.dll
+    ³   ³       ³       System.Runtime.CompilerServices.Unsafe.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnet7.0
+    ³   ³       ³       _._
+    ³   ³       ³       
+    ³   ³       ÀÄÄÄnetstandard2.0
+    ³   ³               System.Runtime.CompilerServices.Unsafe.dll
+    ³   ³               System.Runtime.CompilerServices.Unsafe.xml
+    ³   ³               
+    ³   ÃÄÄÄSystem.Text.Encodings.Web.10.0.10
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   System.Text.Encodings.Web.10.0.10.nupkg
+    ³   ³   ³   THIRD-PARTY-NOTICES.TXT
+    ³   ³   ³   useSharedDesignerContext.txt
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       System.Text.Encodings.Web.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet462
+    ³   ³   ³   ³       _._
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet8.0
+    ³   ³   ³   ³       _._
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.0
+    ³   ³   ³           System.Text.Encodings.Web.targets
+    ³   ³   ³           
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ³   ÃÄÄÄnet10.0
+    ³   ³   ³   ³       System.Text.Encodings.Web.dll
+    ³   ³   ³   ³       System.Text.Encodings.Web.xml
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet462
+    ³   ³   ³   ³       System.Text.Encodings.Web.dll
+    ³   ³   ³   ³       System.Text.Encodings.Web.xml
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet8.0
+    ³   ³   ³   ³       System.Text.Encodings.Web.dll
+    ³   ³   ³   ³       System.Text.Encodings.Web.xml
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet9.0
+    ³   ³   ³   ³       System.Text.Encodings.Web.dll
+    ³   ³   ³   ³       System.Text.Encodings.Web.xml
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnetstandard2.0
+    ³   ³   ³           System.Text.Encodings.Web.dll
+    ³   ³   ³           System.Text.Encodings.Web.xml
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄruntimes
+    ³   ³       ÃÄÄÄbrowser
+    ³   ³       ³   ÀÄÄÄlib
+    ³   ³       ³       ÃÄÄÄnet10.0
+    ³   ³       ³       ³       System.Text.Encodings.Web.dll
+    ³   ³       ³       ³       System.Text.Encodings.Web.xml
+    ³   ³       ³       ³       
+    ³   ³       ³       ÀÄÄÄnet8.0
+    ³   ³       ³               System.Text.Encodings.Web.dll
+    ³   ³       ³               System.Text.Encodings.Web.xml
+    ³   ³       ³               
+    ³   ³       ÃÄÄÄwasi
+    ³   ³       ³   ÀÄÄÄlib
+    ³   ³       ³       ÀÄÄÄnet10.0
+    ³   ³       ³               System.Text.Encodings.Web.dll
+    ³   ³       ³               System.Text.Encodings.Web.xml
+    ³   ³       ³               
+    ³   ³       ÀÄÄÄwin
+    ³   ³           ÀÄÄÄlib
+    ³   ³               ÀÄÄÄnet9.0
+    ³   ³                       System.Text.Encodings.Web.dll
+    ³   ³                       System.Text.Encodings.Web.xml
+    ³   ³                       
+    ³   ÃÄÄÄSystem.Text.Json.10.0.10
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   System.Text.Json.10.0.10.nupkg
+    ³   ³   ³   THIRD-PARTY-NOTICES.TXT
+    ³   ³   ³   useSharedDesignerContext.txt
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄanalyzers
+    ³   ³   ³   ÀÄÄÄdotnet
+    ³   ³   ³       ÃÄÄÄroslyn3.11
+    ³   ³   ³       ³   ÀÄÄÄcs
+    ³   ³   ³       ³       ³   System.Text.Json.SourceGeneration.dll
+    ³   ³   ³       ³       ³   
+    ³   ³   ³       ³       ÃÄÄÄcs
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄde
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄes
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄfr
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄit
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄja
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄko
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄpl
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄpt-BR
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄru
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄtr
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄzh-Hans
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÀÄÄÄzh-Hant
+    ³   ³   ³       ³               System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³               
+    ³   ³   ³       ÃÄÄÄroslyn4.0
+    ³   ³   ³       ³   ÀÄÄÄcs
+    ³   ³   ³       ³       ³   System.Text.Json.SourceGeneration.dll
+    ³   ³   ³       ³       ³   
+    ³   ³   ³       ³       ÃÄÄÄcs
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄde
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄes
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄfr
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄit
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄja
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄko
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄpl
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄpt-BR
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄru
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄtr
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÃÄÄÄzh-Hans
+    ³   ³   ³       ³       ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³       ³       
+    ³   ³   ³       ³       ÀÄÄÄzh-Hant
+    ³   ³   ³       ³               System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³       ³               
+    ³   ³   ³       ÀÄÄÄroslyn4.4
+    ³   ³   ³           ÀÄÄÄcs
+    ³   ³   ³               ³   System.Text.Json.SourceGeneration.dll
+    ³   ³   ³               ³   
+    ³   ³   ³               ÃÄÄÄcs
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄde
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄes
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄfr
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄit
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄja
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄko
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄpl
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄpt-BR
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄru
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄtr
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÃÄÄÄzh-Hans
+    ³   ³   ³               ³       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³               ³       
+    ³   ³   ³               ÀÄÄÄzh-Hant
+    ³   ³   ³                       System.Text.Json.SourceGeneration.resources.dll
+    ³   ³   ³                       
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       System.Text.Json.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet462
+    ³   ³   ³   ³       System.Text.Json.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnet8.0
+    ³   ³   ³   ³       System.Text.Json.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnetcoreapp2.0
+    ³   ³   ³   ³       System.Text.Json.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnetstandard2.0
+    ³   ³   ³           System.Text.Json.targets
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet10.0
+    ³   ³       ³       System.Text.Json.dll
+    ³   ³       ³       System.Text.Json.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnet462
+    ³   ³       ³       System.Text.Json.dll
+    ³   ³       ³       System.Text.Json.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnet8.0
+    ³   ³       ³       System.Text.Json.dll
+    ³   ³       ³       System.Text.Json.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnet9.0
+    ³   ³       ³       System.Text.Json.dll
+    ³   ³       ³       System.Text.Json.xml
+    ³   ³       ³       
+    ³   ³       ÀÄÄÄnetstandard2.0
+    ³   ³               System.Text.Json.dll
+    ³   ³               System.Text.Json.xml
+    ³   ³               
+    ³   ÃÄÄÄSystem.Threading.Tasks.Extensions.4.6.3
+    ³   ³   ³   .signature.p7s
+    ³   ³   ³   Icon.png
+    ³   ³   ³   PACKAGE.md
+    ³   ³   ³   System.Threading.Tasks.Extensions.4.6.3.nupkg
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄbuildTransitive
+    ³   ³   ³   ÃÄÄÄnet461
+    ³   ³   ³   ³       System.Threading.Tasks.Extensions.targets
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnet462
+    ³   ³   ³           _._
+    ³   ³   ³           
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet462
+    ³   ³       ³       System.Threading.Tasks.Extensions.dll
+    ³   ³       ³       System.Threading.Tasks.Extensions.xml
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetcoreapp2.1
+    ³   ³       ³       _._
+    ³   ³       ³       
+    ³   ³       ÃÄÄÄnetstandard2.0
+    ³   ³       ³       System.Threading.Tasks.Extensions.dll
+    ³   ³       ³       System.Threading.Tasks.Extensions.xml
+    ³   ³       ³       
+    ³   ³       ÀÄÄÄnetstandard2.1
+    ³   ³               _._
+    ³   ³               
+    ³   ÀÄÄÄSystem.ValueTuple.4.6.2
+    ³       ³   .signature.p7s
+    ³       ³   Icon.png
+    ³       ³   PACKAGE.md
+    ³       ³   System.ValueTuple.4.6.2.nupkg
+    ³       ³   
+    ³       ÃÄÄÄbuild
+    ³       ³   ÀÄÄÄnet471
+    ³       ³           System.ValueTuple.targets
+    ³       ³           ValueTupleFrameworkList.xml
+    ³       ³           
+    ³       ÃÄÄÄbuildTransitive
+    ³       ³   ÃÄÄÄnet461
+    ³       ³   ³       System.ValueTuple.targets
+    ³       ³   ³       
+    ³       ³   ÃÄÄÄnet462
+    ³       ³   ³       _._
+    ³       ³   ³       
+    ³       ³   ÀÄÄÄnet471
+    ³       ³           System.ValueTuple.targets
+    ³       ³           ValueTupleFrameworkList.xml
+    ³       ³           
+    ³       ÀÄÄÄlib
+    ³           ÃÄÄÄnet462
+    ³           ³       System.ValueTuple.dll
+    ³           ³       System.ValueTuple.xml
+    ³           ³       
+    ³           ÃÄÄÄnet47
+    ³           ³       System.ValueTuple.dll
+    ³           ³       System.ValueTuple.xml
+    ³           ³       
+    ³           ÃÄÄÄnet471
+    ³           ³       _._
+    ³           ³       
+    ³           ÃÄÄÄnetcoreapp2.0
+    ³           ³       _._
+    ³           ³       
+    ³           ÀÄÄÄnetstandard2.0
+    ³                   _._
+    ³                   
+    ÃÄÄÄProperties
+    ³       AssemblyInfo.cs
+    ³       Resources.Designer.cs
+    ³       Resources.resx
+    ³       Settings.Designer.cs
+    ³       Settings.settings
+    ³       
+    ÃÄÄÄVisual Studio 2022
+    ³   ÀÄÄÄVisualizers
+    ³           attribcache140.bin
+    ³           
+    ÀÄÄÄVisual Studio 2022Templates
+        ÀÄÄÄItemTemplates
